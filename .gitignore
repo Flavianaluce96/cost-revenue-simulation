@@ -20,3 +20,37 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.DS_Store
+#User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+#Auto-generated files
+*.al
+*.alproj
+*.alproj.user
+*.alpackage
+*.alcache
+*.alpackages
+*.app
+*.g.xlf
+*.flf
+*.xml
+*.json
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.sln
+*.csproj
+*.vbproj
+*.dbmdl
+*.pdb
+*.obj
+*.dll
+*.exe
+*.vspscc
+*.vssscc
+*.scc               
